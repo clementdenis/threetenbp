@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/clementdenis/threetenbp.svg?branch=master)](https://travis-ci.org/clementdenis/threetenbp)
 
 ## ThreeTen backport project
 JSR-310 provides a new date and time library for Java SE 8.
